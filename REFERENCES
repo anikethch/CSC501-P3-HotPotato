@@ -1,0 +1,4 @@
+1.  Discussed with Jasleen Kaur Jabbal (jkjabbal@ncsu.edu) about ways to create the network.
+2.  http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html for examples on select and other system calls.
+3.  stackoverflow for general debugging. 
+4.  LINUX man pages for learning about different system calls used in socket programming.
